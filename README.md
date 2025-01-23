@@ -1,5 +1,5 @@
 ### Hi there 👋
-I dont really know what is page will be for just yet..
+I dont really know what this page will be for just yet..
 hang tight! 😄
 <!--
 **NicolasKucherGomez/NicolasKucherGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
